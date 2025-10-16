@@ -1,0 +1,3 @@
+Đây là dòng đầu tiên trong file mới.
+Đây là dòng thứ hai trong file mới.
+Đây là dòng thứ ba trong file mới.
